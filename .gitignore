@@ -108,3 +108,6 @@ ENV/
 *.jpeg
 *.png
 *.gif
+
+# logs
+events.*
